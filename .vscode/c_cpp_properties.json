@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "MinGW",
+            "intelliSenseMode": "clang-x64",
+            "compilerPath": "C:/tools/mingw64/bin/gcc.exe",
+            "includePath": [
+                "${workspaceFolder}",
+                "${workspaceFolder}/build/include",
+                "C:/tools/mingw64/x86_64-w64-mingw32/include/c++",
+                "C:/tools/mingw64/x86_64-w64-mingw32/include/c++/x86_64-w64-mingw32"
+            ],
+            "defines": [],
+            "browse": {
+                "path": [
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            },
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
